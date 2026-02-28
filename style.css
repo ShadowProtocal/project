@@ -1,0 +1,20 @@
+body{}
+.siam{
+    background: black;
+}
+.riad{
+    background: red;
+}
+.riad :hover{
+    background: green;
+}
+.purple{
+    background: purple;
+}
+.white{
+    background: yellow;
+    color: black;
+}
+.green{
+    background: green;
+}
